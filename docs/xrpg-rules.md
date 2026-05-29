@@ -1,20 +1,14 @@
 # XRPG
 
-XRPG written with love by CalliopeX
+XRPG written with love by CalliopeX ([Tumblr](cumaddictjess.tumblr.com)) ([Twitter](twitter.com/cumaddictjess))
 
-- [Tumblr](cumaddictjess.tumblr.com)
-- [Twitter](twitter.com/cumaddictjess)
+All art product and property of Calm ([Patreon](https://www.patreon.com/calm)) ([Twitter](https://x.com/calmdraws))
 
-All Art Product and property of Calm
-
-- [Patreon](https://www.patreon.com/calm)
-- [Twitter](https://x.com/calmdraws)
-
-Thanks so much to the lovely people of the Kuroinu discord for helping me make this best version of XRPG yet a reality! I love you. — CalliopeX
+> Thanks so much to the lovely people of the Kuroinu discord for helping me make this best version of XRPG yet a reality! I love you. —CalliopeX
 
 ## Introduction
 
-The XRPG, an adult role-playing game designed to be played easily over a long period of time via any Instant messaging program. Any number of players can take part, but it is important to balance the number of players with the number of people willing to run and design encounters for them. There is no hard number to the number of players that can play, but it is recommended to have at least one extra encounter for every player. Unlike traditional tabletop RPGs, there is no respect to a party system. It’s envisioned as the tale of a single adventurer who has for one reason or another delved into this land of monsters, though you may depending on the circumstance group up to take a particularly difficult quest. All you need to play is the following:
+XRPG is an adult role-playing game designed to be played easily over a long period of time via any Instant messaging program. Any number of players can take part, but it is important to balance the number of players with the number of people willing to run and design encounters for them. There is no hard number to the number of players that can play, but it is recommended to have at least one extra encounter for every player. Unlike traditional tabletop RPGs, there is no respect to a party system. It’s envisioned as the tale of a single adventurer who has for one reason or another delved into this land of monsters, though you may depending on the circumstance group up to take a particularly difficult quest. All you need to play is the following:
 
 **The GM, or Game Master.** The GM is the person responsible for designing and dictating the setting. They oversee the overarching plot, if there is one, and the layout of the world. GMs usually also participate to run encounters for players, the same as an Encounter Player would. It is the GM’s responsibility to keep tabs on if people are cheating or abusing the system, and to help new players understand both the world and the rules governing gameplay.
 
