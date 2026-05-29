@@ -10,47 +10,47 @@ All Art Product and property of Calm
 - [Patreon](https://www.patreon.com/calm)
 - [Twitter](https://x.com/calmdraws)
 
-Thanks so much to the lovely people of the Kuroinu discord for helping me make this best version of XRPG yet a reality! I love you. - CalliopeX
+Thanks so much to the lovely people of the Kuroinu discord for helping me make this best version of XRPG yet a reality! I love you. — CalliopeX
 
 ## Introduction
 
-The XRPG, an adult role-playing game designed to be played easily over a long period of time via any Instant messaging program. Any number of players can take part, but it is important to balance the number of players with the number of people willing to run and design encounters for them. There is no hard number to the number of players that can play but it is recommended to have at least one extra encounter for every player. Unlike traditional tabletop RPGs, there is no respect to a party system. It’s envisioned as the tale of a single adventurer who has for one reason or another delved into this land of monsters, though you may depending on the circumstance group up to take a particularly difficult quest. All you need to play is the following:
+The XRPG, an adult role-playing game designed to be played easily over a long period of time via any Instant messaging program. Any number of players can take part, but it is important to balance the number of players with the number of people willing to run and design encounters for them. There is no hard number to the number of players that can play, but it is recommended to have at least one extra encounter for every player. Unlike traditional tabletop RPGs, there is no respect to a party system. It’s envisioned as the tale of a single adventurer who has for one reason or another delved into this land of monsters, though you may depending on the circumstance group up to take a particularly difficult quest. All you need to play is the following:
 
-**The GM, or Game Master.** The GM is the person responsible for designing and dictating the setting. They oversee the overarching plot if there is one and the layout of the world. GMs usually also participate to run encounters for players the same as an Encounter Player would. It is the GM’s responsibility to keep tabs on if people are cheating or abusing the system and to help new players understand both the world and the rules governing gameplay.
+**The GM, or Game Master.** The GM is the person responsible for designing and dictating the setting. They oversee the overarching plot, if there is one, and the layout of the world. GMs usually also participate to run encounters for players, the same as an Encounter Player would. It is the GM’s responsibility to keep tabs on if people are cheating or abusing the system, and to help new players understand both the world and the rules governing gameplay.
 
-**The Players.** No RPG is complete without participants. Players run their own characters, role-playing and putting them through dangerous or erotic situations. Whether that is entering a dungeon, exploring a swamp or seeking the aid of a wise old hermit. Players maintain their own character sheet and govern the actions only of their own single character. Within the XRPG system there is no reason why a player cannot participate as two separate characters, even to run a party solo is acceptable but not the original intent for the game. Much of this book is written to detail to the players how to create these characters. It is important when considering your character to try and keep an open mind to the kinds of things the game will throw at them, being promiscuously natured, trying and accepting new things is a necessary trait to the gameplay and people who are strictly straight or turned off by monstrous encounters will find their characters either put through things extremely adverse to their tastes or will have to opt out and straight up die.
+**The Players.** No RPG is complete without participants. Players run their own characters, role-playing and putting them through dangerous or erotic situations. Whether that is entering a dungeon, exploring a swamp or seeking the aid of a wise old hermit. Players maintain their own character sheet and govern the actions only of their own single character. Within the XRPG system there is no reason why a player cannot participate as two separate characters, even to run a party solo is acceptable but not the original intent for the game. Much of this book is written to detail to the players how to create these characters. It is important when considering your character to try to keep an open mind to the kinds of things the game will throw at them. Being promiscuously natured, trying and accepting new things is a necessary trait to the gameplay. People who are strictly straight or turned off by monstrous encounters will find their characters either put through things extremely adverse to their tastes, or will have to opt out and straight up die.
 
-**The Encounter Players.** Expecting one GM to run every scenario for more than perhaps two players would be a large undertaking and cost a lot of time. The Encounter Players are people who design and orchestrate the encounters while obeying the rules and laws set by the GM. Encounter Players describe settings and play the part of every non-character being in the encounter and so will need to be quick fingered and open minded to the kinds of things they are expected to portray. It is important to mention that the purpose of the encounters is not to kill or force the players to lose against unwinnable scenarios but merely to facilitate fun and interesting locations and creatures. It is also generally a polite gesture to try and accommodate the player to their own preferences kink wise, though it is far from a sin to try and push the envelope a bit.
+**The Encounter Players.** Expecting one GM to run every scenario for more than perhaps two players would be a large undertaking and cost a lot of time. The Encounter Players are people who design and orchestrate the encounters while obeying the rules and laws set by the GM. Encounter Players describe settings and play the part of every non-character being in the encounter, and so will need to be quick fingered and open-minded to the kinds of things they are expected to portray. It is important to mention that the purpose of the encounters is not to kill or force the players to lose against unwinnable scenarios, but merely to facilitate fun and interesting locations and creatures. It is also generally a polite gesture to try to accommodate the player to their own preferences kink wise, though it is far from a sin to try to push the envelope a bit.
 
-_An adventurer aids a lost succubus by allowing her to use him to replenish her Mana. XRPG allows for many kinds of lewd and perverted scenarios while trying to present a unique and fun ruleset for rpg veterans._
+_An adventurer aids a lost succubus by allowing her to use him to replenish her Mana. XRPG allows for many kinds of lewd and perverted scenarios while trying to present a unique and fun ruleset for RPG veterans._
 
-The game itself consists of a series of encounters contrasted with off-time from adventuring. For example: our player is a slutty elf named Awyn. She departs from her home camp to travel through the woods for a while. She may or may not find a creature on her way through the woods or a creature may find her. Depending on the circumstances of that encounter at the decision of either the Encounter Player or the GM to outline the setting. The two combatants then have a series of moves and rolls to make to decide who the victor is of the carnal predicament. If Awyn is defeated the creature then proceeds to ravage her for a time until she passes out and wakes up back at camp or still stranded in the jungle. Alternatively, if Awyn is the victor, she gets the choice to either fuck the creature; upon which causing it to orgasm will reward her with XP and a return of one HP (detailed later). Or she may slay the thing or cast it aside, being rewarded with the same XP but lacking any kind of recoup sex would generate. Then she may carry on or return to camp to further recoup lost energy. It is important to add that an encounter won’t always be won by “defeating” the creature’s roll. Sometimes it is presented in a manner of “surviving” whereas even if Awyn defeats the roll of a Minotaur, she is not in control of the situation and is merely able to survive the beast’s throbbing cock.
+The game itself consists of a series of encounters, contrasted with off-time from adventuring. For example: our player is a slutty elf named Awyn. She departs from her home camp to travel through the woods for a while. She may or may not find a creature on her way through the woods, or a creature may find her, depending on the circumstances of that encounter, at the decision of either the Encounter Player or the GM, to outline the setting. The two combatants then have a series of moves and rolls to make to decide who the victor is of the carnal predicament. If Awyn is defeated, the creature then proceeds to ravage her for a time until she passes out and wakes up back at camp or still stranded in the jungle. Alternatively, if Awyn is the victor, she gets the choice to either fuck the creature; upon which causing it to orgasm will reward her with XP and a return of one HP (detailed later). Or she may slay the thing or cast it aside, being rewarded with the same XP but lacking any kind of recoup sex would generate. Then she may carry on or return to camp to further recoup lost energy. It is important to add that an encounter won’t always be won by “defeating” the creature’s roll. Sometimes it is presented in a manner of “surviving” whereas even if Awyn defeats the roll of a Minotaur, she is not in control of the situation and is merely able to survive the beast’s throbbing cock.
 
 ## Basic Mechanics
 
-**Advantage and Disadvantage.** When the rulebook calls for either advantage or disadvantage what it is asking for is to make two rolls of whatever dice you happen to be using, including bonus die, and use either the better or worse of the two rolls. Better if it is under the affect of advantage, worse if under disadvantage.
+**Advantage and Disadvantage.** When the rulebook calls for either advantage or disadvantage, it is asking you to make two rolls of whatever dice you happen to be using, including a bonus die, and use either the better or worse of the two rolls. Better if it is under the effect of advantage, worse if under disadvantage.
 
-**Bonus.** When the rulebook calls for a bonus what it is asking for is to roll whatever die is dictated for the roll again and add it to your standard roll. For example, dual weapons come with a bonus to Athleticism rolls, so instead of rolling 1d4 at level 4 you would be rolling 2d4. (more on this detailed later)
+**Bonus.** When the rulebook calls for a bonus, what it is asking for is to roll whatever die is dictated for the roll again and add it to your standard roll. For example, dual weapons come with a bonus to Athleticism rolls, so instead of rolling 1d4 at level 4 you would be rolling 2d4. (more on this detailed later)
 
-**Dice Shorthand.** When reading numbers that represent dice rolls there are two parts to the shorthand. The first number represents how many dice should be rolled and the second number represents how many sides there should be on that die. For example, 1d4 means you should roll one four-sided die where 3d20 means you should roll three, twenty-sided dice.
+**Dice Shorthand.** When reading numbers that represent dice rolls, there are two parts to the shorthand. The first number represents how many dice should be rolled, and the second number represents how many sides there should be on that die. For example, 1d4 means you should roll one four-sided die where 3d20 means you should roll three, twenty-sided dice.
 
 ## Characters
 
 ### Attributes
 
-Attributes are the numbers that determine what a character is good or bad at. They are also the first things to consider when creating a character. All characters have a balanced sum of the five attributes to their level, when first creating a character you select a balance which decides on how many points of each attribute you will gain per level. This is called your attribute scaling. For players your attribute scaling cannot be higher than 1.25 per level or lower than 0.75, you can however select any decimal between the two. Attribute scaling for all five attributes additionally must sum up to a total of 5, the same as the number of attributes to pick from.
+Attributes are the numbers that determine what a character is good or bad at. They are also the first things to consider when creating a character. All characters have a balanced sum of the five attributes to their level, when first creating a character you select a balance which decides on how many points of each attribute you will gain per level. This is called your attribute scaling. For players your attribute scaling cannot be higher than 1.25 per level or lower than 0.75, you can, however, select any decimal between the two. Attribute scaling for all five attributes additionally must sum up to a total of 5, the same as the number of attributes to pick from.
 
-**Athleticism.** Your direct physical ability, agility, strength and defence. Athleticism governs your ability to lift heavy objects and survive or defend from physical trauma.
+**Athleticism.** Your direct physical ability, agility, strength, and defence. Athleticism governs your ability to lift heavy objects and survive or defend from physical trauma.
 
 **Charisma.** Interpersonal skills. Charisma governs your ability to flirt and haggle, and your ability to charm creatures with either your words or body.
 
-**Endurance.** Length of energy. Separate from Athleticism but a similar vein Endurance governs how long your body can expend energy before weakening to fatigue. Endurance governs your amount of Stamina.
+**Endurance.** Length of energy. Separate from Athleticism, but in a similar vein, Endurance governs how long your body can expend energy before weakening to fatigue. Endurance governs your amount of Stamina.
 
 **Sorcery.** Magical energy and ability. Sorcery is both your modifier for spellcasting and arcane arts and the depth of your Mana pool. Any person who empties their soul of Mana is also subject to extreme fatigue and weakness.
 
 **Willpower.** Ability to resist magic and charismatic temptations. Willpower governs your mental fortitude against many kinds of manipulation and is also the source of Resolve, a resource spent when defending against psychic attacks.
 
-_A Mighty Barbarian like this woman would prioritize Athleticism and Endurance, focusing on raw physical strength to overcome opponents. Yet she would be weak to any monster with an ability to affect her mind._
+_A Mighty Barbarian like this woman would prioritize Athleticism and Endurance, focusing on raw physical strength to overcome opponents. Yet, she would be weak to any monster with an ability to affect her mind._
 
 ### Resources
 
@@ -58,17 +58,17 @@ _A Mighty Barbarian like this woman would prioritize Athleticism and Endurance, 
 
 **Mana.** Governed by the Sorcery attribute, Mana is the amount of magical energy a body has to offer before the character is completely exhausted. Mana’s value is 10× the Sorcery attribute after modifiers.
 
-**Resolve.** Governed by the Willpower attribute, Resolve is the amount of energy the mind has remaining before it becomes suggestible. It is used to cast certain magics and its value is 10× the Willpower attribute after modifiers.
+**Resolve.** Governed by the Willpower attribute, Resolve is the amount of energy the mind has remaining before it becomes suggestible. It is used to cast certain magics, and its value is 10× the Willpower attribute after modifiers.
 
 #### Elasticity and Equip Load
 
 **Equip Load** governs the amount of equipment any character is allowed to carry with them at any given time without expending Stamina to maintain. It is determined by the player’s athletic growth and is unchanging irresponsible of level, though it can be increased by purchasing bags and other objects that assist the character with transport of goods. Equip Load’s value is 10× the Athleticism growth of a character + 3.5 rounded down. This means the minimum Equip Load is 11 while the maximum is 16.
 
-**Elasticity** is a stat that determines how easily a character can handle being penetrated without suffering damage. For every point tighter a character is than the value of the object penetrating them, they lose -1 on a roll of 1d4. A roll of 1 or less results in the character taking one damage, a roll of -4 or less results in the character taking two. Elasticity is dependant on a player’s Charisma growth, the value is 5× Charisma growth -4. A minimum score is -0.25 and the maximum natural score is 2.25.
+**Elasticity** is a stat that determines how easily a character can handle being penetrated without suffering damage. For every point tighter a character is than the value of the object penetrating them, they lose -1 on a roll of 1d4. A roll of 1 or less results in the character taking one damage, a roll of -4 or less results in the character taking two. Elasticity is dependent on a player’s Charisma growth, the value is 5× Charisma growth -4. A minimum score is -0.25 and the maximum natural score is 2.25.
 
 ### Damage
 
-Aside from running low on resources, there are other ways to lose an encounter. All creatures and players have Hitpoints or hearts. All players begin with 3 Hitpoints and only gain more under special circumstances. Whenever there is a contest, or under most circumstances of a failed test, the loser will lose a Hitpoint due to damage. When Hitpoints are reduced to zero or below, the combatant is rendered unable to fight back and is at the victor’s mercy. Reducing a Hitpoint is called damage. Damage is a statistic governed by the comparison of two values, Attack and Defence. If Attack and Defence are equal, then only one Hitpoint is dealt. However, for every point that Attack exceeds Defence another damage is dealt. Damage cannot be reduced in the opposite manner unless under special circumstances. Suffering an attack and defending it will always reduce your relative resources by the amount of their modifier to it. Physical attacks will be reduced based on the attacker’s Athleticism, Magic attacks will reduce based on Sorcery, and Mental attacks based on Willpower.
+Aside from running low on resources, there are other ways to lose an encounter. All creatures and players have Hitpoints or hearts. All players begin with 3 Hitpoints and only gain more under special circumstances. Whenever there is a contest, or under most circumstances of a failed test, the loser will lose a Hitpoint due to damage. When Hitpoints are reduced to zero or below, the combatant is rendered unable to fight back and is at the victor’s mercy. Reducing a Hitpoint is called damage. Damage is a statistic governed by the comparison of two values, Attack and Defence. If Attack and Defence are equal, then only one Hitpoint is dealt. However, for every point that Attack exceeds Defence, another damage is dealt. Damage cannot be reduced in the opposite manner unless under special circumstances. Suffering an attack and defending it will always reduce your relative resources by the amount of their modifier to it. Physical attacks will be reduced based on the attacker’s Athleticism, Magic attacks will reduce based on Sorcery, and Mental attacks based on Willpower.
 
 ### A Sample Combat
 
@@ -84,15 +84,15 @@ Because the troll is only wearing rags, it has nothing to mitigate the damage an
 
 ### Traits
 
-Traits or perks are upgrades determined by progression down a series of branching trees detailed later in the book. Right off the bat you are granted one trait for your race and one trait for your class or background. Otherwise these things have no effect but aesthetics, work with your GM to determine what traits would make the most sense to the character you have chosen to create. Traits selected as a product of character creation can come from anywhere inside of a tree but otherwise they must be purchased in order. Having started a tree does not mean you need to finish it and you can have as many trees ongoing as you like.
+Traits or perks are upgrades determined by progression down a series of branching trees detailed later in the book. Right off the bat, you are granted one trait for your race and one trait for your class or background. Otherwise, these things have no effect but aesthetics, work with your GM to determine what traits would make the most sense to the character you have chosen to create. Traits selected as a product of character creation can come from anywhere inside a tree, but otherwise they must be purchased in order. Having started a tree does not mean you need to finish it, and you can have as many trees ongoing as you like.
 
 ### Magic
 
-Magic is the lifeblood of high fantasy. In XRPG every character has some affinity to arcane energy and their own pool we call Mana. From hurling mighty fireballs to tricking the minds of the foolish, magic is a solution to nearly any problem. Spending a sufficient amount of Mana can move mountains and shape worlds. Mana determines the amount of arcane energy any creature has; a drained reservoir of Mana usually results in the creature fainting till the levels return naturally. All creatures regain Mana slowly naturally, pulling a little of the arcane power from the earth every day but to be a true magical caster you must find a way to rapidly replenish Mana or you will be caught without energy to combat with. Several of the perk trees have traits that permit this, or you can purchase potions of raw arcane energy, or Mana potions for short.
+Magic is the lifeblood of high fantasy. In XRPG every character has some affinity to arcane energy and their own pool we call Mana. From hurling mighty fireballs to tricking the minds of the foolish, magic is a solution to nearly any problem. Spending a sufficient amount of Mana can move mountains and shape worlds. Mana determines the amount of arcane energy any creature has; a drained reservoir of Mana usually results in the creature fainting until the levels return naturally. All creatures regain Mana slowly naturally, pulling a little of the arcane power from the earth every day. But to be a true magical caster you must find a way to rapidly replenish Mana or you will be caught without energy to combat with. Several of the perk trees have traits that permit this, or you can purchase potions of raw arcane energy, or Mana potions for short.
 
 #### Basics
 
-Every character begins the game with a single school of magic and a single spell, unless their background or class allows them to select another. You can learn new spells via training with a senior wizard or by reading from a spell-granting item. It costs one perk point to learn each spell so long as it is within a school of magic you have mastered. If the spell is outside of your magic school, it will cost three times as much to learn. Casting any kind of spell will draw Mana from your body, there are three kinds of different spells each with slightly different rules for how much it will cost to cast them.
+Every character begins the game with a single school of magic and a single spell, unless their background or class allows them to select another. You can learn new spells via training with a senior wizard or by reading from a spell-granting item. It costs one perk point to learn each spell, so long as it is within a school of magic you have mastered. If the spell is outside your magic school, it will cost three times as much to learn. Casting any kind of spell will draw Mana from your body, there are three kinds of different spells, each with slightly different rules for how much it will cost to cast them.
 
 #### The Five Schools
 
@@ -108,11 +108,11 @@ Every character begins the game with a single school of magic and a single spell
 
 ### Class and Race
 
-Contrary to the precedent set by most tabletop roleplaying games, in XRPG selecting your class and race is much more important to your characters background and personal appearance than it is to the actual stats. Class and race still affect characters but not nearly as significantly as they would in most other RPGs. Both your class and race selections have nothing to do with stats and manifest themselves by allowing you to gain two free traits at level 1 from any depth of any tree so long as they are acceptable to the GM running the campaign. Work together with your GM to decide what perks will be available for what race or class description.
+Contrary to the precedent set by most tabletop roleplaying games, in XRPG selecting your class and race is much more important to your character’s background and personal appearance than it is to the actual stats. Class and race still affect characters, but not nearly as significantly as they would in most other RPGs. Both your class and race selections have nothing to do with stats. They manifest themselves by allowing you to gain two free traits at level 1 from any depth of any tree, so long as they are acceptable to the GM running the campaign. Work together with your GM to decide what perks will be available for what race or class description.
 
 ### Beyond Level 1
 
-At every subsequent level beyond the first your character gains in might and ability. The game begins at level 1 and ends at level 111. Your attributes increase by your attribute growth every level, you can easily calculate this by multiplying the two together. Additionally, every few levels something called your Level Die increases in accordance of the variation of minimum and maximum stats. The Level Die determines the standard die for rolls at each level, Every attack made, with the exception of spells where you can choose the strength of the attack, is made with this die.
+At every subsequent level beyond the first, your character gains in might and ability. The game begins at level 1 and ends at level 111. Your attributes increase by your attribute growth every level, you can easily calculate this by multiplying the two together. Additionally, every few levels, something called your Level Die increases in accordance to the variation of minimum and maximum stats. The Level Die determines the standard die for rolls at each level, Every attack made, with the exception of spells where you can choose the strength of the attack, is made with this die.
 
 | Levels  | Die  |
 | ------- | ---- |
@@ -123,29 +123,29 @@ At every subsequent level beyond the first your character gains in might and abi
 | 61-99   | d50  |
 | 100-111 | d100 |
 
-You also gain one point to be used on either the purchase of a new trait or spell every level. These, unlike for class and race must be spent on spells or traits in order of the tree. You must purchase a preceding trait or spell prior to one later on. You may however jump back and forth across as many trait trees as you like. Trait trees are found in the Reference section later in this book.
+You also gain one point to be used on either the purchase of a new trait or spell every level. These, unlike for class and race, must be spent on spells or traits in order of the tree. You must purchase a preceding trait or spell prior to one later on. You may however jump back and forth across as many trait trees as you like. Trait trees are found in the Reference section later in this book.
 
 #### Things gained every level
 
 - 1 trait/spell point
 - Add attribute growth value to all 5 attributes
-- Sense of self worth
+- Sense of self-worth
 
 ### Equipment
 
-Characters typically wear equipment that helps them in combat. There are three main types of equipment, armour, weapons, and accessories. Armour is a covering of the body that adds to the Defence stat and protects the wearer from damage. Weapons are tools used to inflict damage on the opponent and accessories can be anything from jewelry with magic properties to a shield that assists in defence. Be aware that many hostile creatures you will meet on your journey can also be equipped with natural or crafted gear in likeness of your own.
+Characters typically wear equipment that helps them in combat. There are three main types of equipment, armour, weapons, and accessories. Armour is a covering of the body that adds to the Defence stat and protects the wearer from damage. Weapons are tools used to inflict damage on the opponent, and accessories can be anything from jewelry with magic properties to a shield that assists in defence. Be aware that many hostile creatures you will meet on your journey can also be equipped with natural or crafted gear in the likeness of your own.
 
 #### Materials
 
-All Equipment is made from some kind of material, the material it is created from dictates the abilities and limits of any set of armour or weapon. Tribal tech weapons like wooden spears and hide armour like loincloths, drapes etc, can only be used at a very rudimentary level and cannot be upgraded very far. However, an armour created with a mythic material like mithrill can be so fine-tuned and worked on that it ascends past the level of any ordinary armour. Most Armours and weapons in an average game will rest below mythic gear and more in the sensible metals and compositions like bronze and iron. Within a similar group of materials each has a difference balance of weight and durability, heavier equipment always lasts longer than lighter ones in combat but are more difficult to travel with. Certain materials can only be used to create armour while others are only useful un weapons.
+All Equipment is made from some kind of material, the material it is created from dictates the abilities and limits of any set of armour or weapon. Tribal tech weapons like wooden spears and hide armour like loincloths, drapes etc, can only be used at a very rudimentary level and cannot be upgraded very far. However, an armour created with a mythic material like mithrill can be so fine-tuned and worked on that it ascends past the level of any ordinary armour. Most Armours and weapons in an average game will rest below mythic gear and more in the sensible metals and compositions like bronze and iron. Within a similar group of materials each has a difference balance of weight and durability, heavier equipment always lasts longer than lighter ones in combat but are more difficult to travel with. Certain materials can only be used to create armour, while others are only useful in weapons.
 
 #### Archetypes
 
-Archetypes describe the design of each armour set or weapon, any archetype can be made of any material. The archetype of each piece determines the pieces strengths and weaknesses. For example, plate armour is famous for its ability to ignore and shrug off more damage than any other set, but it heavily limits the strength you can swing with and the amount of energy you have left to spare. The archetypes of armours and weapons are detailed separate from each other and provide different kinds of trade-offs. All equipment that maintains a bonus in one stat will have a malus in another to balance out, Bonuses are ten percent (10%) of the selected attribute and maluses are the same number added via the bonus removed from the other attribute. In the case of multiple maluses and no attribute bonus the median valued attribute of the maluses is reduced by 10% and that same number is removed from the other malus attributes.
+Archetypes describe the design of each armour set or weapon, any archetype can be made of any material. The archetype of each piece determines the piece’s strengths and weaknesses. For example, plate armour is famous for its ability to ignore and shrug off more damage than any other set, but it heavily limits the strength you can swing with and the amount of energy you have left to spare. The archetypes of armours and weapons are detailed separate from each other and provide different kinds of trade-offs. All equipment that maintains a bonus in one stat will have a malus in another to balance out. Bonuses are ten percent (10%) of the selected attribute, and maluses are the same number added via the bonus removed from the other attribute. In the case of multiple maluses and no attribute bonus, the median valued attribute of the maluses is reduced by 10% and that same number is removed from the other malus attributes.
 
 #### Accessories
 
-Accessories are small trinkets, jewelry or magical items cast onto your equipment that can deliver a wide wide variety of benefits to the wearer. So many variations on trinkets exist that we aren’t even going to try and cover them in this book, use your imagination GMs and it will come to you!
+Accessories are small trinkets, jewelry or magical items cast onto your equipment that can deliver a wide variety of benefits to the wearer. So many variations on trinkets exist that we aren’t even going to try to cover them in this book, use your imagination GMs, and it will come to you!
 
 _Two Elf girls test out a variety of accessories on each other to determine each one’s diverse magical properties_
 
@@ -155,7 +155,7 @@ _Two Elf girls test out a variety of accessories on each other to determine each
 
 #### Spell Type 1: Attacks
 
-Spells listed as attacks are spells that add no modifiers and have few miscellaneous effects. They are simple contest rolls following the characteristics of the spell itself. Unless otherwise noted all attack spells effects are to deal one damage to the target. The total Mana cost of an attack type spell is the target’s Sorcery score plus the average roll of the die chosen. Note the name of the spell is determines by the size of the die rolled.
+Spells listed as attacks are spells that add no modifiers and have few miscellaneous effects. They are simple contest rolls following the characteristics of the spell itself. Unless otherwise noted, all attack spells effects are to deal one damage to the target. The total Mana cost of an attack type spell is the target’s Sorcery score plus the average roll of the die chosen. Note, the name of the spell is determined by the size of the die rolled.
 
 | Die  | Name    |
 | ---- | ------- |
@@ -193,7 +193,7 @@ Spells listed as miscellaneous are spells with effects that don’t fall under t
 
 **Fatigue.** (Attack) Deals Stamina damage equal to 10 × roll “Drain your opponent of stamina, rendering them exhausted to any follow-up.”
 
-**Ice Path.** (Miscellaneous) Lower the target’s Athleticism score by its Level Die while within the area. “Coat the floor with ice causing your opponent to slip and slide while it magically remains normal terrain for you.”
+**Ice Path.** (Miscellaneous) Lower the target’s Athleticism score by its Level Die while within the area. “Coat the floor with ice, causing your opponent to slip and slide while it magically remains normal terrain for you.”
 
 **Mend.** (Miscellaneous) Return Stamina to yourself equal to your roll × 15. “Channel magical energy to quickly reshape your body to its normal state and repair some damage.”
 
@@ -201,7 +201,7 @@ Spells listed as miscellaneous are spells with effects that don’t fall under t
 
 **Poison Splash.** (Attack) Deals Stamina damage equal to 7.5 × roll. Continues to deal damage after caster is incapacitated. “Douse your opponent in a toxin that either causes physical damage or drains the energy from their veins. This effect stays in effect without concentration.”
 
-**Wild Shape.** (Miscellaneous) Shapeshift into the body and stats of one animal that you have previously encountered. “Reform your body temporarily into that of a beast, drawing the details from memory requires meeting the animal at least three times.”
+**Wild Shape.** (Miscellaneous) Shapeshift into the body and stats of one animal that you have previously encountered. “Reform your body temporarily into that of a beast, drawing the details from memory. Requires meeting the animal at least three times.”
 
 #### Enchanting
 
@@ -211,7 +211,7 @@ Spells listed as miscellaneous are spells with effects that don’t fall under t
 
 **Dispel.** (Miscellaneous) Removes a magical buff or de-buff, must be cast with equal level of the spell targeted. “Create a field of magic energy that counteracts and nullifies a previously planted spell and dissolves it.”
 
-**Dominate.** (Attack) Instant charm incapacitation, spell modifier must double out opponent’s Willpower. “Enter your targets mind and warp it. ruin them to anyone else and render them nothing but a puppet to you. An advanced spell to pull off properly.”
+**Dominate.** (Attack) Instant charm incapacitation, spell modifier must double out opponent’s Willpower. “Enter your target’s mind and warp it. Ruin them to anyone else and render them nothing but a puppet to you. An advanced spell to pull off properly.”
 
 **Barrier.** (Bonus) Adds a magical die to physical and Sorcery defence. “Create a magical barrier to protect against physical and magical attacks.”
 
@@ -241,11 +241,11 @@ Spells listed as miscellaneous are spells with effects that don’t fall under t
 
 #### Purification
 
-**Enrapture.** (Attack) Prevents creature from taking specific actions against you. Cast with Willpower. “Reach in and force a block in the target’s mind leaving them incapable of conducting normal actions.”
+**Enrapture.** (Attack) Prevents creature from taking specific actions against you. Cast with Willpower. “Reach in and force a block in the target’s mind, leaving them incapable of conducting normal actions.”
 
 **Focus.** (Miscellaneous) Regens roll × 5 Resolve “Meditate briefly and return your resolve, refreshed for the next test.”
 
-**Fortitude.** (Bonus) Adds a magical die to defend against psychic attacks. cast with Willpower. “Focus on your strength of will and weather the storm of mental punishment.”
+**Fortitude.** (Bonus) Adds a magical die to defend against psychic attacks. Cast with Willpower. “Focus on your strength of will and weather the storm of mental punishment.”
 
 **Lightning Bolt.** (Attack) Magic missile cast with Willpower vs Sorcery. “Hurl a bolt of lightning and fry your opponent with radiant energy.”
 
@@ -263,13 +263,13 @@ Spells listed as miscellaneous are spells with effects that don’t fall under t
 
 **Arcane Circle.** (Miscellaneous) Summon a being from another plane, Demons and similar. Rules dictated by creature summoned. “Using a magical circle specifically inscribed on the ground; call forth a powerful demonic creature and negotiate with it by the rules incorporated in the individual’s arcane bonds.”
 
-**Call Guardian.** (Miscellaneous) Summons a being from the terrestrial world. rules dictated by creature. “Using a nature altar call forth an arcane being or beast from the world around you and negotiate it using common sense and logic.”
+**Call Guardian.** (Miscellaneous) Summons a being from the terrestrial world. Rules dictated by creature. “Using a nature altar, call forth an arcane being or beast from the world around you and negotiate it using common sense and logic.”
 
 **Conjure.** (Miscellaneous) Creates a being from materials around, undead are the normal choice. Spirits second. The summoned entity is automatically enthralled by you. “Use nearby remains and other items to create a follower to do your bidding.”
 
 **Create Elemental or Golem.** (Miscellaneous) Creates a golem or elemental from a nearby element, enthralled by you. “Use a natural formation around you to magically build a magical construct to do your bidding.”
 
-**Portal.** (Miscellaneous) Creates a portal that allows an ally to step through and come to your aid. “Rip a tear in the air in front of you to any location you wish and call an ally through to help you fight.”
+**Portal.** (Miscellaneous) Creates a portal that allows an ally to step through and come to your aid. “Rip a tear in the air in front of you to any location you wish, and call an ally through to help you fight.”
 
 **Sorcerous Shield.** (Bonus) Summons an arcane shield that adds a magic die to physical and arcane defence rolls. “Create a shield of pure sorcerous energy called forth from another dimension to wield.”
 
@@ -277,19 +277,19 @@ Spells listed as miscellaneous are spells with effects that don’t fall under t
 
 ## Encounters
 
-While journeying across a world like this it is impossible not to come into contact with a wide variety of creatures and people. Thieves, monsters, militias all included. The world is full of a massive range of possibilities, and many diverse kinds of life. Encounters are what happens when a character is put into any kind of scenario where they must roll or use skills to overcome an obstacle, usually as an outcome of meeting a creature of some sort. These situations are always run by an Encounter Player or the GM and are the bread and butter of XRPG. All encounters rest on a competition versus another being or against nature itself to see if the character or the opponent comes out on top. Some encounters will take all the resources a player has available to come out on top. Encounters and rolls are divided into three main types.
+While journeying across a world like this, it is impossible not to come into contact with a wide variety of creatures and people. Thieves, monsters, militias all included. The world is full of a massive range of possibilities, and many diverse kinds of life. Encounters are what happens when a character is put into any kind of scenario where they must roll or use skills to overcome an obstacle, usually as an outcome of meeting a creature of some sort. These situations are always run by an Encounter Player or the GM and are the bread and butter of XRPG. All encounters rest on a competition versus another being or against nature itself to see if the character or the opponent comes out on top. Some encounters will take all the resources a player has available to come out on top. Encounters and rolls are divided into three main types.
 
-**Attrition.** This is when the player is pitted against an opponent that seeks to wear them down, like a group of weaker/smaller creatures or a writhing mass of tentacles. Attrition is a race against time, depending on the type of encounter it can primarily consume either Stamina, Mana or Resolve. If the player is not able to incapacitate their opponent before drained of any of the three resources, then they are defeated. Likewise incapacitating the opponent will result in the characters success. Examples of a Stamina attrition combat is a mass of tentacles with the character bound by and resisting them. Something such as an elemental requires a magic barrier to not injure the one they are fucking would be Mana attrition, and the Ilithids are best know for inflicting Resolve attrition through their mind flay ability
+**Attrition.** This is when the player is pitted against an opponent that seeks to wear them down, like a group of weaker/smaller creatures or a writhing mass of tentacles. Attrition is a race against time, depending on the type of encounter it can primarily consume either Stamina, Mana, or Resolve. If the player is not able to incapacitate their opponent before drained of any of the three resources, then they are defeated. Likewise, incapacitating the opponent will result in the character’s success. Examples of a Stamina attrition combat is a mass of tentacles with the character bound by and resisting them. Something such as an elemental requires a magic barrier to not injure the one they are fucking would be Mana attrition, and the Ilithids are best known for inflicting Resolve attrition through their mind flay ability.
 
-**Contest.** This is when the stat of a creature is in direct competition with that of the players. The two have a roll-off and the higher result of the Level Die + relevant characteristic is declared the winner. In the case of the numbers being equal the higher decimal value is taken into account. Typically, there are four main contests that occur. Sorcery vs Sorcery, when two magic-users engage in a magic duel. Athleticism vs Athleticism, when there is a combat of physical ability or someone is just trying to survive the ordeal another is putting them through. e.g., fighting another human being vs being impaled by a minotaur. Charisma vs Charisma, where a character is attempting to trick/wile/flirt your way through someone’s guard to bed them. And Charisma vs Willpower, when someone is trying to entice or invite another to fuck them through an erotic display or other means that ought to be resisted. Depending on the kind of attack attempted the result can be to reduce the opponent’s resources towards zero or to deal enough damage in head on combat to defeat them.
+**Contest.** This is when the stat of a creature is in direct competition with that of the players. The two have a roll-off and the higher result of the Level Die + relevant characteristic is declared the winner. In the case of the numbers being equal, the higher decimal value is taken into account. Typically, there are four main contests that occur. Sorcery vs Sorcery, when two magic-users engage in a magic duel. Athleticism vs Athleticism, when there is a combat of physical ability or someone is just trying to survive the ordeal another is putting them through. e.g., fighting another human being vs being impaled by a minotaur. Charisma vs Charisma, where a character is attempting to trick/wile/flirt your way through someone’s guard to bed them. And Charisma vs Willpower, when someone is trying to entice or invite another to fuck them through an erotic display or other means that ought to be resisted. Depending on the kind of attack attempted, the result can be to reduce the opponent’s resources towards zero or to deal enough damage in head on combat to defeat them.
 
-**Test.** This is generally for magic or alchemical concoctions. The most common is Willpower vs spell DC (Difficulty Check, an arbitrary number given to mark the effectiveness of a spell). The person targeted must use Willpower, or sometimes Sorcery to deflect or ignore the effects a spell or potion may have on them. Typically failing one of these isn’t an instant loss of an encounter but it can result in one.
+**Test.** This is generally for magic or alchemical concoctions. The most common is Willpower vs spell DC (Difficulty Check, an arbitrary number given to mark the effectiveness of a spell). The person targeted must use Willpower, or sometimes Sorcery, to deflect or ignore the effects a spell or potion may have on them. Typically, failing one of these isn’t an instant loss of an encounter, but it can result in one.
 
 _A group of adventurers engaged in a particularly cordial encounter._
 
 ### Creatures
 
-Any number of creatures can be encountered in a fantasy world with any number of special abilities that make them each a unique challenge to overcome. From vampiric traits to a strong natural musk any adventurer caught unprepared could easily fall victim to these tricks. Some creatures have their own feats like characters do that are unobtainable to most players while others have the ability to inflict debilitating status effects, also included under status effects are the penalties to losing a combat.
+Any number of creatures can be encountered in a fantasy world, with any number of special abilities that make them each a unique challenge to overcome. From vampiric traits to a strong natural musk, any adventurer caught unprepared could easily fall victim to these tricks. Some creatures have their own feats like characters do that are unobtainable to most players while others have the ability to inflict debilitating status effects, also included under status effects are the penalties to losing a combat.
 
 #### Status Effects
 
@@ -298,7 +298,7 @@ Any number of creatures can be encountered in a fantasy world with any number of
 - **Pregnant.** No effect for 20 days, on day 21 lose 25% of maximum Stamina for 10 more days.
 - **Injured.** After losing one encounter -10% less resources of all kinds.
 - **Wounded.** After losing a second encounter -30% less resources of all kinds.
-- **Addicted.** -1 to Willpower rolls versus the particular addiction, stacks infinitely. Every successive failure when encountering same addiction adds -1 cumulatively. If the roll to overcome addiction becomes impossible, Bad end.
+- **Addicted.** -1 to Willpower rolls versus the particular addiction, stacks infinitely. Every successive failure when encountering the same addiction adds -1 cumulatively. If the roll to overcome addiction becomes impossible, Bad end.
 - **Pinned.** 2× multiple to resource costs while trapped by opponent.
 - **Aroused.** Overtaken by lust, 2× multiple to all Resolve costs.
 
@@ -315,7 +315,7 @@ Any number of creatures can be encountered in a fantasy world with any number of
 - **Escape Artist.** Bonus to Athleticism while fleeing.
 - **Ethereal.** Immune to physical attacks but weak to magic and will.
 - **Flame.** Halves Stamina and Endurance.
-- **Knotted.** drains Stamina even after KO’d-mid-sex.
+- **Knotted.** Drains Stamina even after KO’d-mid-sex.
 - **Magic form.** Requires a Sorcery roll to make contact with.
 - **Magic Immune.** Impervious to the effects of spells and potions.
 - **Mind Flay.** Percent increase in Resolve damage dealt.
@@ -473,7 +473,7 @@ flowchart LR
 - **Cautious Movement.** -30% sneak penalty from armour.
 - **Deep Breath.** Daily advantage on Athleticism contest.
 - **Juicy.** -1 to anal tightness adjustments.
-- **Intimidation.** Sorcery of enemies 3 levels lower reduced by 30%.
+- **Intimidation.** Sorcery of enemies 3 levels lower, reduced by 30%.
 - **Olympic Body.** 9% extra Athleticism growth.
 
 #### Alchemy
@@ -523,7 +523,7 @@ flowchart LR
 - **Wet.** -1 to pussy tightness adjustments.
 - **Cummoner.** Mana regenerates from sex.
 - **Express Gestation.** Shortens bred status by 2/3.
-- **Irrisistable.** Automatic allure attacks vs observers.
+- **Irresistible.** Automatic allure attacks vs observers.
 
 #### Arcanery
 
@@ -828,9 +828,9 @@ flowchart LR
 | Crystal                | Both             | Asc         | 1.0         | 15                  |
 | Orichalcum             | Both             | Asc         | 1.1         | 20                  |
 | Mithrill               | Both             | Asc         | 1.3         | 25                  |
-| Aregonite              | Both             | Asc         | 1.4         | 30                  |
+| Aragonite              | Both             | Asc         | 1.4         | 30                  |
 | Gorgonite              | Both             | Asc         | 1.5         | 35                  |
-| Adamantite             | Both             | Asc         | 1.7         | 40                  |
+| Adamantine             | Both             | Asc         | 1.7         | 40                  |
 
 #### Armour Archetypes
 
