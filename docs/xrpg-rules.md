@@ -54,7 +54,7 @@ The game itself consists of a series of encounters, contrasted with off-time fro
 
 **Advantage and Disadvantage.** When the rulebook calls for either advantage or disadvantage, it is asking you to make two rolls of whatever dice you happen to be using, including any bonus die, and use either the better or worse of the two rolls. Better if it is under the effect of advantage, worse if under disadvantage.
 
-**Bonus.** When the rulebook calls for a bonus die, what it is asking for is to roll whatever die is dictated for the roll again and add it to your standard roll. For example, dual weapons come with a bonus die to Athleticism rolls, so instead of rolling 1d4 at level 4 you would be rolling 2d4. (more on this detailed later)
+**Bonus.** When the rulebook calls for a bonus, what it is asking for is to roll whatever die is dictated for the roll again and add it to your standard roll. For example, dual weapons come with a bonus to Athleticism rolls, so instead of rolling 1d4 at level 4 you would be rolling 2d4. (more on this detailed later)
 
 **Dice Shorthand.** When reading numbers that represent dice rolls, there are two parts to the shorthand. The first number represents how many dice should be rolled, and the second number represents how many sides there should be on that die. For example, 1d4 means you should roll one four-sided die where 3d20 means you should roll three twenty-sided dice.
 
@@ -137,7 +137,7 @@ All Equipment is made from some kind of material, the material it is created fro
 
 ### Archetypes
 
-Archetypes describe the design of each armour set or weapon, any archetype can be made of any material. The archetype of each piece determines the piece’s strengths and weaknesses. For example, plate armour is famous for its ability to ignore and shrug off more damage than any other set, but it heavily limits the strength you can swing with and the amount of energy you have left to spare. The archetypes of armours and weapons are detailed separate from each other and provide different kinds of trade-offs. All equipment that maintains a bonus in one stat will have a malus in another to balance out. Bonuses are 10 percent (10%) of the selected attribute, and maluses are the same number added via the bonus removed from the other attribute. In the case of multiple maluses and no attribute bonus, the median valued attribute of the maluses is reduced by 5 percent and that same number is removed from the other malus attributes.
+Archetypes describe the design of each armour set or weapon, any archetype can be made of any material. The archetype of each piece determines the piece’s strengths and weaknesses. For example, plate armour is famous for its ability to ignore and shrug off more damage than any other set, but it heavily limits the strength you can swing with and the amount of energy you have left to spare. The archetypes of armours and weapons are detailed separate from each other and provide different kinds of trade-offs. All equipment that maintains a bonus in one stat will have a malus in another to balance out. Bonuses are 10 percent (10%) of the selected attribute, and maluses are the same number added via the bonus removed from the other attribute. In the case of multiple maluses and no attribute bonus, the malus attribute with the media value is reduced by 5 percent, and that same number is removed from the other malus attributes.
 
 ### Accessories
 
@@ -183,7 +183,7 @@ Magic is the lifeblood of high fantasy. In XRPG every character has some affinit
 | 1d50  | Grand     |
 | 1d100 | Legendary |
 
-**Miscellaneous.** Spells listed as miscellaneous are spells with effects that don’t fall under the other two categories. The complete details of each spell are listed in their entry. The Mana costs of a miscellaneous spell are, unless otherwise specified, four times the level of the target. The names for miscellaneous spells are the same as for bonus spells.
+**Miscellaneous.** Spells listed as miscellaneous are spells with effects that don’t fall under the other two categories. The complete details of each spell are listed in their entry. The Mana costs of a miscellaneous spell are, unless otherwise specified, four times the level of the target. The names for miscellaneous spells are the same as for g spells.
 
 ## Spell Lists
 
@@ -304,25 +304,28 @@ Any number of creatures can be encountered in a fantasy world, with any number o
 
 ### Creature Feats
 
-- **Addicting.** Causes Addiction rolls.
-- **Allure.** Bonus to charm attacks.
-- **Amorphous.** Invincible to physical attacks.
-- **Arcane Ebb.** Minus to spells cast against.
+- **Addicting.** Pass a Willpower contest roll or become Addicted.
+- **Allure.** Bonus to Charisma rolls to entice or charm.
+- **Amorphous.** Invincible to physical damage.
+- **Animal Husbandry.** May tame pacified beasts to use at camp.
+- **Arcane Ebb.** Minus to spells cast.
 - **Arcane Flow.** Bonus to spells cast.
-- **Bestial.** Immune to logic and Charisma attacks.
-- **Cummoner.** Regenerates Mana upon orgasm.
-- **Elemental Form.** Magic is required to make contact with.
+- **Beast Tamer.** May pacify beasts and reduce stats by 10%.
+- **Bestial.** Unable to be conversed with. Immune to logic and Charisma attacks.
+- **Cummoner.** Regenerates Mana upon orgasm, yours or your partner’s.
+- **Elemental Form.** Requires Magic to make contact with.
 - **Escape Artist.** Bonus to Athleticism while fleeing.
 - **Ethereal.** Immune to physical attacks but weak to magic and will.
 - **Flame.** Halves Stamina and Endurance.
-- **Knotted.** Drains Stamina even after KO’d-mid-sex.
+- **Knotted.** Continues to deal Stamina damage after being incapacitated.
 - **Magic form.** Requires a Sorcery roll to make contact with.
 - **Magic Immune.** Impervious to the effects of spells and potions.
 - **Mind Flay.** Percent increase in Resolve damage dealt.
 - **Musk.** Requires a Willpower roll to approach without being Charmed.
 - **Natural Siphon.** Percent increase to Mana drain.
-- **Vampirism.** Drains Willpower into own Stamina pool, capped to 150%.
-- **Writhing.** Percent increase in Stamina.
+- **Vampirism.** Drains Resolve into own Stamina pool, can overcharge to 150%.
+- **Water Breathing.** Able to spend prolonged periods submerged underwater.
+- **Writhing.** Percent increase in Stamina drain.
 - **Regeneration.** Regains full Stamina upon being knocked out.
 - **Zenkai.** Gain a level upon defeat.
 - **Game.** Subject to the effects of the Hunting trait tree.
@@ -605,7 +608,7 @@ flowchart LR
 ```
 
 - **Anti-Mage.** Magic resistance.
-- **Balance.** Bonus to Wisdom contests.
+- **Balance.** Bonus to Willpower contests.
 - **Yin-Yang.** Resting restores both Mana and Resolve.
 - **Holy Blade.** Deal 25% damage through Ethereal trait.
 - **Holy Barrier.** Touch and handle elemental forms.
@@ -727,7 +730,7 @@ flowchart LR
 - **Promises.** 30% extra Resolve.
 - **Price of Innocence.** Physical resistance, charm weakness.
 - **Stalwart Mind.** Resistance to Mind Flay.
-- **Stalwart Soul.** Resistance to addictions.
+- **Stalwart Soul.** Resistance to Addiction.
 - **Stalwart Body.** −2 to all tightness adjustments.
 - **Stubborn.** Bonus to Willpower when target has less than 80% yours.
 
