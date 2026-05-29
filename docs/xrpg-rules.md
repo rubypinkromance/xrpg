@@ -832,31 +832,33 @@ flowchart LR
 | Gorgonite              | Both             | Asc         | 1.5         | 35                  |
 | Adamantite             | Both             | Asc         | 1.7         | 40                  |
 
-#### Archetypes
+#### Armour Archetypes
 
-| Armours - Archetype | Bonuses (+10%)         | Maluses (-same val.)           | Weight Multiplier |
-| ------------------- | ---------------------- | ------------------------------ | ----------------- |
-| Mundane             | -                      | -                              | 5.0               |
-| Martial             | Athleticism            | Sorcery                        | 5.0               |
-| Wanderer            | Endurance              | Willpower                      | 4.5               |
-| Risqué              | Charisma               | Athleticism                    | 4.5               |
-| Arcane              | Sorcery                | Charisma                       | 5.0               |
-| Stoic               | Willpower              | Endurance                      | 5.5               |
-| Plate               | +1 Defence             | Athleticism, Charisma, Sorcery | 5.5               |
-| Barbarian           | +1 Attack, Endurance   | -1 Defence                     | 4.5               |
-| Rogue               | Sneaking Bonus         | Athleticism (-5%)              | 4.5               |
-| Monk                | Athleticism, Willpower | Sorcery, Endurance             | 5.0               |
-| Eldritch            | Athleticism, Sorcery   | Willpower, Endurance           | 5.5               |
-| Druidic             | Endurance, Sorcery     | Athleticism, Willpower         | 5.0               |
-| Valkyrie            | Charisma, Athleticism  | Willpower, Sorcery             | 5.5               |
-| Mesmer              | Charisma, Sorcery      | Athleticism, Willpower         | 5.0               |
+| Armours   | Bonuses (+10%)         | Maluses (-same val.)           | Weight Multiplier |
+| --------- | ---------------------- | ------------------------------ | ----------------- |
+| Mundane   | -                      | -                              | 5.0               |
+| Martial   | Athleticism            | Sorcery                        | 5.0               |
+| Wanderer  | Endurance              | Willpower                      | 4.5               |
+| Risqué    | Charisma               | Athleticism                    | 4.5               |
+| Arcane    | Sorcery                | Charisma                       | 5.0               |
+| Stoic     | Willpower              | Endurance                      | 5.5               |
+| Plate     | +1 Defence             | Athleticism, Charisma, Sorcery | 5.5               |
+| Barbarian | +1 Attack, Endurance   | -1 Defence                     | 4.5               |
+| Rogue     | Sneaking Bonus         | Athleticism (-5%)              | 4.5               |
+| Monk      | Athleticism, Willpower | Sorcery, Endurance             | 5.0               |
+| Eldritch  | Athleticism, Sorcery   | Willpower, Endurance           | 5.5               |
+| Druidic   | Endurance, Sorcery     | Athleticism, Willpower         | 5.0               |
+| Valkyrie  | Charisma, Athleticism  | Willpower, Sorcery             | 5.5               |
+| Mesmer    | Charisma, Sorcery      | Athleticism, Willpower         | 5.0               |
 
-| Weapons - Archetype | Bonuses (+10%)                                         | Maluses (-same val.) | Weight Multiplier |
-| ------------------- | ------------------------------------------------------ | -------------------- | ----------------- |
-| Great               | Athleticism                                            | Endurance            | 2.5               |
-| Medium              | -                                                      | -                    | 2.0               |
-| Small               | Endurance                                              | Athleticism          | 1.5               |
-| Ranged              | Ranged Attacks                                         | Athleticism          | 1.5               |
-| Dual                | Bonus Die                                              | Athleticism          | 2.5               |
-| Magical             | Sorcery                                                | Athleticism          | 2.0               |
-| Holy                | Ignores Ethereal and Elemental Traits, Bonus vs Demons | Athleticism          | 2.0               |
+#### Weapon Archetypes
+
+| Weapons | Bonuses (+10%)                                         | Maluses (-same val.) | Weight Multiplier |
+| ------- | ------------------------------------------------------ | -------------------- | ----------------- |
+| Great   | Athleticism                                            | Endurance            | 2.5               |
+| Medium  | -                                                      | -                    | 2.0               |
+| Small   | Endurance                                              | Athleticism          | 1.5               |
+| Ranged  | Ranged Attacks                                         | Athleticism          | 1.5               |
+| Dual    | Bonus Die                                              | Athleticism          | 2.5               |
+| Magical | Sorcery                                                | Athleticism          | 2.0               |
+| Holy    | Ignores Ethereal and Elemental Traits, Bonus vs Demons | Athleticism          | 2.0               |
