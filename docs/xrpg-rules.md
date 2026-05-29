@@ -40,7 +40,7 @@ The game itself consists of a series of encounters contrasted with off-time from
 
 Attributes are the numbers that determine what a character is good or bad at. They are also the first things to consider when creating a character. All characters have a balanced sum of the five attributes to their level, when first creating a character you select a balance which decides on how many points of each attribute you will gain per level. This is called your attribute scaling. For players your attribute scaling cannot be higher than 1.25 per level or lower than 0.75, you can however select any decimal between the two. Attribute scaling for all five attributes additionally must sum up to a total of 5, the same as the number of attributes to pick from.
 
-**Athleticism.** Your direct physical ability, agility strength and defence. Athleticism governs your ability to lift heavy objects and survive or defend from physical trauma.
+**Athleticism.** Your direct physical ability, agility, strength and defence. Athleticism governs your ability to lift heavy objects and survive or defend from physical trauma.
 
 **Charisma.** Interpersonal skills. Charisma governs your ability to flirt and haggle, and your ability to charm creatures with either your words or body.
 
@@ -112,7 +112,7 @@ Contrary to the precedent set by most tabletop roleplaying games, in XRPG select
 
 ### Beyond Level 1
 
-At every subsequent level beyond the first your character gains in might and ability. The game begins at level 1 and ends at level 111. Your attributes increase by your attribute growth every level, you can easily calculate this by multiplying the two together. Additionally, every few levels something called your Level Die increases in accordance of the variation of minimum and maximum stats. The Level Die determines the standard die for rolls at each level, Every attack made with the exception of spells where you can choose the strength of the attack is made with this die.
+At every subsequent level beyond the first your character gains in might and ability. The game begins at level 1 and ends at level 111. Your attributes increase by your attribute growth every level, you can easily calculate this by multiplying the two together. Additionally, every few levels something called your Level Die increases in accordance of the variation of minimum and maximum stats. The Level Die determines the standard die for rolls at each level, Every attack made, with the exception of spells where you can choose the strength of the attack, is made with this die.
 
 | Levels  | Die  |
 | ------- | ---- |
@@ -271,9 +271,9 @@ Spells listed as miscellaneous are spells with effects that don’t fall under t
 
 **Portal.** (Miscellaneous) Creates a portal that allows an ally to step through and come to your aid. “Rip a tear in the air in front of you to any location you wish and call an ally through to help you fight.”
 
-**Sorcerous Shield.** (Bonus) Summons an arcane shield that adds a magic die to physical and arcane defence. “Create a shield of pure sorcerous energy called forth from another dimension to wield.”
+**Sorcerous Shield.** (Bonus) Summons an arcane shield that adds a magic die to physical and arcane defence rolls. “Create a shield of pure sorcerous energy called forth from another dimension to wield.”
 
-**Sorcerous Weapon.** (Bonus) Summons an arcane Weapon that adds a magic die to physical and arcane attack. “Create a weapon of pure sorcerous energy called forth from another dimension to wield”
+**Sorcerous Weapon.** (Bonus) Summons an arcane Weapon that adds a magic die to physical and arcane attack rolls. “Create a weapon of pure sorcerous energy called forth from another dimension to wield”
 
 ## Encounters
 
