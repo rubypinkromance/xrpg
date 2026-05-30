@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>XRPG Character Sheet</title>
+  </head>
+  <body>
+    <h1>XRPG Character Sheet</h1>
+
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" id="name" />
+    </div>
+    <div class="form-group">
+      <label for="level">Level</label>
+      <input type="number" value="2" data-type="monitor" id="level" />
+    </div>
+    <div class="form-group">
+      <label for="level-die">Level Die</label>
+      <input type="text" id="level-die" data-source="level" readonly />
+    </div>
+    <div class="form-group">
+      <label for="character">Character</label>
+      <input type="text" id="character" />
+    </div>
+    <div class="form-group">
+      <label for="xp">XP</label>
+      <input type="number" value="0" id="xp" />
+    </div>
+
+    <fieldset id="attributes">
+      <legend>Attributes</legend>
+      <table>
+        <tr>
+          <th></th>
+          <th>Growth</th>
+          <th>Bonus%</th>
+          <th>Malus%</th>
+          <th>Actual</th>
+        </tr>
+        <tr>
+          <th><label for="ath-growth">Athleticism</label></th>
+          <td>
+            <input
+              type="number"
+              value="0.75"
+              data-type="monitor"
+              id="ath-growth"
+            />
+          </td>
+          <td>
+            <input type="number" value="0" data-type="monitor" id="ath-bonus" />
+          </td>
+          <td>
+            <input
+              type="number"
+              value="20"
+              data-type="monitor"
+              id="ath-malus"
+            />
+          </td>
+          <td>
+            <input
+              type="number"
+              id="ath"
+              data-source="ath-growth"
+              data-bonus="ath-bonus"
+              data-malus="ath-malus"
+              data-type="attr"
+              readonly
+            />
+          </td>
+        </tr>
+        <tr>
+          <th><label for="cha-growth">Charisma</label></th>
+          <td>
+            <input
+              type="number"
+              value="1.25"
+              data-type="monitor"
+              id="cha-growth"
+            />
+          </td>
+          <td>
+            <input
+              type="number"
+              value="10"
+              data-type="monitor"
+              id="cha-bonus"
+            />
+          </td>
+          <td>
+            <input type="number" value="0" data-type="monitor" id="cha-malus" />
+          </td>
+          <td>
+            <input
+              type="number"
+              id="cha"
+              data-source="cha-growth"
+              data-bonus="cha-bonus"
+              data-malus="cha-malus"
+              data-type="attr"
+              readonly
+            />
+          </td>
+        </tr>
+        <tr>
+          <th><label for="end-growth">Endurance</label></th>
+          <td>
+            <input
+              type="number"
+              value="1"
+              data-type="monitor"
+              id="end-growth"
+            />
+          </td>
+          <td>
+            <input
+              type="number"
+              value="10"
+              data-type="monitor"
+              id="end-bonus"
+            />
+          </td>
+          <td>
+            <input type="number" value="0" data-type="monitor" id="end-malus" />
+          </td>
+          <td>
+            <input
+              type="number"
+              id="end"
+              data-source="end-growth"
+              data-bonus="end-bonus"
+              data-malus="end-malus"
+              data-type="attr"
+              readonly
+            />
+          </td>
+        </tr>
+        <tr>
+          <th><label for="sor-growth">Sorcery</label></th>
+          <td>
+            <input
+              type="number"
+              value="0.75"
+              data-type="monitor"
+              id="sor-growth"
+            />
+          </td>
+          <td>
+            <input type="number" value="0" data-type="monitor" id="sor-bonus" />
+          </td>
+          <td>
+            <input type="number" value="0" data-type="monitor" id="sor-malus" />
+          </td>
+          <td>
+            <input
+              type="number"
+              id="sor"
+              data-source="sor-growth"
+              data-bonus="sor-bonus"
+              data-malus="sor-malus"
+              data-type="attr"
+              readonly
+            />
+          </td>
+        </tr>
+        <tr>
+          <th><label for="wil-growth">Willpower</label></th>
+          <td>
+            <input
+              type="number"
+              value="1.25"
+              data-type="monitor"
+              id="wil-growth"
+            />
+          </td>
+          <td>
+            <input type="number" value="0" data-type="monitor" id="wil-bonus" />
+          </td>
+          <td>
+            <input type="number" value="0" data-type="monitor" id="wil-malus" />
+          </td>
+          <td>
+            <input
+              type="number"
+              id="wil"
+              data-source="wil-growth"
+              data-bonus="wil-bonus"
+              data-malus="wil-malus"
+              data-type="attr"
+              readonly
+            />
+          </td>
+        </tr>
+      </table>
+    </fieldset>
+
+    <fieldset>
+      <legend>Resources</legend>
+      <table>
+        <tr>
+          <th></th>
+          <th>Total</th>
+          <th>Remaining</th>
+        </tr>
+        <tr>
+          <th><label for="sta-remaining">Stamina</label></th>
+          <td>
+            <input
+              type="number"
+              id="sta"
+              data-source="end"
+              data-type="resource"
+              data-target="sta-remaining"
+              readonly
+            />
+          </td>
+          <td><input type="number" id="sta-remaining" /></td>
+        </tr>
+        <tr>
+          <th><label for="mana-remaining">Mana</label></th>
+          <td>
+            <input
+              type="number"
+              id="mana"
+              data-source="sor"
+              data-type="resource"
+              data-target="mana-remaining"
+              readonly
+            />
+          </td>
+          <td><input type="number" id="mana-remaining" /></td>
+        </tr>
+        <tr>
+          <th><label for="res-remaining">Resolve</label></th>
+          <td>
+            <input
+              type="number"
+              id="resolve"
+              data-source="wil"
+              data-type="resource"
+              data-target="res-remaining"
+              readonly
+            />
+          </td>
+          <td><input type="number" id="res-remaining" /></td>
+        </tr>
+        <tr>
+          <th><label for="hp">Hitpoints</label></th>
+          <td><input type="number" value="3" id="hp-max" /></td>
+          <td><input type="number" value="3" id="hp" /></td>
+        </tr>
+      </table>
+    </fieldset>
+
+    <div class="form-group">
+      <label for="ela">Elasticity</label>
+      <input type="number" id="ela" data-source="cha-growth" readonly />
+    </div>
+
+    <div class="form-group">
+      <label for="load">Equip Load</label>
+      <input type="number" value="7.45" id="load" /> /
+      <input type="number" id="load-max" data-source="ath-growth" readonly />
+    </div>
+
+    <div class="form-group">
+      <label for="atk">Attack</label>
+      <input type="number" id="atk" readonly />
+    </div>
+
+    <div class="form-group">
+      <label for="def">Defence</label>
+      <input type="number" id="def" readonly />
+    </div>
+
+    <fieldset>
+      <legend>Equipment</legend>
+      <div class="form-group">
+        <label for="arm">Armour Type</label>
+        <input type="text" id="arm" value="Risqué Leather" />
+      </div>
+      <div class="form-group">
+        <label for="arm-dur">Armour Durability</label>
+        <input type="number" id="arm-dur" value="20" /> /
+        <input type="number" id="arm-dur-total" value="20" />
+      </div>
+      <div class="form-group">
+        <label for="wpn">Weapon Type</label>
+        <input type="text" id="wpn" value="Small Steel Sword" />
+      </div>
+      <div class="form-group">
+        <label for="wpn-dur">Weapon Durability</label>
+        <input type="number" id="wpn-dur" value="35" /> /
+        <input type="number" id="wpn-dur-total" value="35" />
+      </div>
+    </fieldset>
+
+    <div class="form-group">
+      <label for="spells">Spells</label>
+      <textarea id="spells"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="traits">Traits</label>
+      <textarea id="traits"></textarea>
+    </div>
+
+    <style>
+      input[type="number"] {
+        width: 5em;
+        text-align: center;
+      }
+    </style>
+    <script>
+      const level = document.querySelector("#level");
+      const outputs = document.querySelectorAll("[data-source]");
+      const inputs = document.querySelectorAll("[data-type='monitor']");
+
+      const calcStats = () => {
+        outputs.forEach((stat) => {
+          const type = stat.dataset.type;
+          const source = stat.dataset.source;
+          const sourceEl = document.querySelector(`#${source}`);
+          const sourceVal = sourceEl.value;
+
+          if (type == "attr") {
+            const bonusId = stat.dataset.bonus;
+            console.log(bonusId);
+            const bonusEl = document.querySelector(`#${bonusId}`);
+            const bonus = bonusEl.value / 100;
+            const malusId = stat.dataset.malus;
+            const malusEl = document.querySelector(`#${malusId}`);
+            const malus = malusEl.value / 100;
+            const computedVal = sourceVal * level.value;
+            const bonusVal = computedVal * bonus;
+            const malusVal = computedVal * malus;
+            const computed = computedVal + bonusVal - malusVal;
+            stat.value = computed;
+            stat.title = `${computedVal} + ${bonusVal} - ${malusVal}`;
+            return;
+          }
+
+          if (type == "resource") {
+            const target = stat.dataset.target;
+            const targetEl = document.querySelector(`#${target}`);
+            const computed = sourceVal * 10;
+            stat.value = computed;
+            targetEl.value = computed;
+            return;
+          }
+
+          if (stat.id == "level-die") {
+            const lvl = level.value;
+            if (lvl >= 100) stat.value = "d100";
+            if (lvl > 60) stat.value = "d50";
+            if (lvl > 40) stat.value = "d30";
+            if (lvl >= 20) stat.value = "d20";
+            if (lvl >= 10) stat.value = "d10";
+            if (lvl < 10) stat.value = "d4";
+            return;
+          }
+
+          if (stat.id == "load-max") {
+            const computed = sourceVal * 10 + 3.5;
+            stat.value = Math.floor(computed);
+            return;
+          }
+
+          if (stat.id == "ela") {
+            const computed = sourceVal * 5 - 4;
+            stat.value = computed;
+            return;
+          }
+        });
+      };
+
+      inputs.forEach((stat) => {
+        stat.addEventListener("change", calcStats);
+      });
+
+      calcStats();
+    </script>
+  </body>
+</html>
