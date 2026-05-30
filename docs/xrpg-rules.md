@@ -90,9 +90,21 @@ _A mighty barbarian would prioritize Athleticism and Endurance, focusing on raw 
 
 **Elasticity** is a stat that determines how easily a character can handle being penetrated without suffering damage. For every point tighter a character is than the value of the object penetrating them, they lose −1 on a roll of 1d4. A result of 1 or less results in the character taking one damage, a result of −4 or less results in the character taking two. Elasticity is dependent on a player’s Charisma growth, the value is 5× Charisma growth −4. A minimum score is −0.25 and the maximum natural score is 2.25.
 
-## Hitpoints
+## Damage
 
-All creatures and players have Hitpoints or hearts. All players begin with 3 Hitpoints and only gain more under special circumstances.
+Aside from running low on resources, there are other ways to lose an encounter. All creatures and players have Hitpoints or hearts. All players begin with 3 Hitpoints and only gain more under special circumstances. Whenever there is a contest, or under most circumstances of a failed test, the loser will lose a Hitpoint due to damage. When Hitpoints are reduced to zero or below, the combatant is rendered unable to fight back and is at the victor’s mercy. Reducing a Hitpoint is called damage. Damage is a statistic governed by the comparison of two values, Attack and Defence. If Attack and Defence are equal, then only one Hitpoint is dealt. However, for every point that Attack exceeds Defence, another damage is dealt. Damage cannot be reduced in the opposite manner unless under special circumstances. Suffering an attack and defending it will always reduce your relative resources by the amount of their modifier to it. Physical attacks will be reduced based on the attacker’s Athleticism, Magic attacks will reduce based on Sorcery, and Mental attacks based on Willpower.
+
+## A Sample Combat
+
+Let us suppose that a heroic adventurer named Layla has been cornered by a mighty troll. Layla is no slouch in combat and is equipped very well compared to the troll’s meager outfitting.
+
+Layla has an iron shortsword +2 and leather armour +2. The Troll is barely wearing any armour and has a big club clutched in its grasp. We’ll say the club is also +2.
+
+Layla dashes towards the thing and slashes at it, this triggers a contest while the troll tries to knock her away first. Layla has the disadvantage here, as her Athleticism is much lower due to her size, and she loses the first contest.
+
+Because of her armour at +2, a hit that would have otherwise finished her off in a single smack simply removes one of her Hitpoints, and she tries again. This time she gets lucky and dodges through the troll’s swipe and hacks at its knees.
+
+Because the troll is only wearing rags, it has nothing to mitigate the damage and loses all 3 Hitpoints in one swipe. (Standard of 1 +2) and collapses to the ground, defeated. Layla earns gold and experience.
 
 ## Traits
 
@@ -100,7 +112,23 @@ Traits or perks are upgrades determined by progression down a series of branchin
 
 ## Magic
 
+Magic is the lifeblood of high fantasy. In XRPG every character has some affinity to arcane energy and their own pool we call Mana. From hurling mighty fireballs to tricking the minds of the foolish, magic is a solution to nearly any problem. Spending a sufficient amount of Mana can move mountains and shape worlds. Mana determines the amount of arcane energy any creature has; a drained reservoir of Mana usually results in the creature fainting until the levels return naturally. All creatures regain Mana slowly naturally, pulling a little of the arcane power from the earth every day. But to be a true magical caster you must find a way to rapidly replenish Mana or you will be caught without energy to combat with. Several of the perk trees have traits that permit this, or you can purchase potions of raw arcane energy, or Mana potions for short.
+
+### Basics
+
 Every character begins the game with a single school of magic and a single spell, unless their background or class allows them to select another. You can learn new spells via training with a senior wizard or by reading from a spell-granting item. It costs one perk point to learn each spell, so long as it is within a school of magic you have mastered. If the spell is outside your magic school, it will cost three times as much to learn. Casting any kind of spell will draw Mana from your body, there are three kinds of different spells, each with slightly different rules for how much it will cost to cast them.
+
+### The Five Schools
+
+**Alteration.** The school of Alteration specialized in physical transformations, changing your body and the world around you. From repairing your very flesh to freezing the floor under an opponent’s feet, this school has the widest variety of actions possible.
+
+**Enchanting.** The school of Enchanting is specialized in both illusion and charm. Editing the perception of those standing nearby and flickering in and out of reality. Charming opponents to do your bidding and binding them to your control.
+
+**Invocation.** The school of Invocation focuses on raw elemental control. Using the powers of the elements to destroy opponents, with some Mana tricks worked into it. Invocation is a school of destruction, pure, straightforward, simple.
+
+**Purification.** Purification is the odd one out of all five schools, based on faith and belief in the gods. Purification focuses on empowering your own physical abilities with tricks of utility to remove any kind of evil from the land.
+
+**Summoning.** The School of Summoning is plainly concerned with the creation or relocation of other entities or objects to assist or fight in your place. From demons to golems to nature spirits and sprites, even magic weapons are available to those with the talent.
 
 ## Class and Race
 
@@ -144,20 +172,6 @@ Archetypes describe the design of each armour set or weapon, any archetype can b
 Accessories are small trinkets, jewelry or magic items cast onto your equipment that can deliver a wide variety of benefits to the wearer. So many variations on trinkets exist that we aren’t even going to try to cover them in this book, use your imagination GMs, and it will come to you!
 
 # Magic and Spellcasting
-
-Magic is the lifeblood of high fantasy. In XRPG every character has some affinity to arcane energy and their own pool we call Mana. From hurling mighty fireballs to tricking the minds of the foolish, magic is a solution to nearly any problem. Spending a sufficient amount of Mana can move mountains and shape worlds. Mana determines the amount of arcane energy any creature has; a drained reservoir of Mana usually results in the creature fainting until the levels return naturally. All creatures regain Mana slowly naturally, pulling a little of the arcane power from the earth every day. But to be a true magical caster you must find a way to rapidly replenish Mana or you will be caught without energy to combat with. Several of the perk trees have traits that permit this, or you can purchase potions of raw arcane energy, or Mana potions for short.
-
-## The Five Schools
-
-**Alteration.** The school of Alteration specialized in physical transformations, changing your body and the world around you. From repairing your very flesh to freezing the floor under an opponent’s feet, this school has the widest variety of actions possible.
-
-**Enchanting.** The school of Enchanting is specialized in both illusion and charm. Editing the perception of those standing nearby and flickering in and out of reality. Charming opponents to do your bidding and binding them to your control.
-
-**Invocation.** The school of Invocation focuses on raw elemental control. Using the powers of the elements to destroy opponents, with some Mana tricks worked into it. Invocation is a school of destruction, pure, straightforward, simple.
-
-**Purification.** Purification is the odd one out of all five schools, based on faith and belief in the gods. Purification focuses on empowering your own physical abilities with tricks of utility to remove any kind of evil from the land.
-
-**Summoning.** The School of Summoning is plainly concerned with the creation or relocation of other entities or objects to assist or fight in your place. From demons to golems to nature spirits and sprites, even magic weapons are available to those with the talent.
 
 ## Spell Types
 
@@ -304,51 +318,33 @@ Any number of creatures can be encountered in a fantasy world, with any number o
 
 ### Creature Feats
 
-- **Addicting.** Pass a Willpower contest roll or become Addicted.
-- **Allure.** Bonus to Charisma rolls to entice or charm.
-- **Amorphous.** Invincible to physical damage.
-- **Animal Husbandry.** May tame pacified beasts to use at camp.
-- **Arcane Ebb.** Minus to spells cast.
+- **Addicting.** Causes Addiction rolls.
+- **Allure.** Bonus to charm attacks.
+- **Amorphous.** Invincible to physical attacks.
+- **Arcane Ebb.** Minus to spells cast against.
 - **Arcane Flow.** Bonus to spells cast.
-- **Beast Tamer.** May pacify beasts and reduce stats by 10%.
 - **Bestial.** Unable to be conversed with. Immune to logic and Charisma attacks.
 - **Cummoner.** Regenerates Mana upon orgasm, yours or your partner’s.
 - **Elemental Form.** Requires Magic to make contact with.
 - **Escape Artist.** Bonus to Athleticism while fleeing.
 - **Ethereal.** Immune to physical attacks but weak to magic and will.
 - **Flame.** Halves Stamina and Endurance.
-- **Knotted.** Continues to deal Stamina damage after being incapacitated.
+- **Knotted.** Drains Stamina even after KO’d-mid-sex.
 - **Magic form.** Requires a Sorcery roll to make contact with.
 - **Magic Immune.** Impervious to the effects of spells and potions.
 - **Mind Flay.** Percent increase in Resolve damage dealt.
 - **Musk.** Requires a Willpower roll to approach without being Charmed.
 - **Natural Siphon.** Percent increase to Mana drain.
-- **Vampirism.** Drains Resolve into own Stamina pool, can overcharge to 150%.
+- **Vampirism.** Drains Willpower into own Stamina pool, can overcharge to 150%.
 - **Water Breathing.** Able to spend prolonged periods submerged underwater.
 - **Writhing.** Percent increase in Stamina drain.
 - **Regeneration.** Regains full Stamina upon being knocked out.
 - **Zenkai.** Gain a level upon defeat.
 - **Game.** Subject to the effects of the Hunting trait tree.
 
-## Damage
-
-Aside from running low on resources, there are other ways to lose an encounter. Whenever there is a contest, or under most circumstances of a failed test, the loser will lose a Hitpoint due to damage. When Hitpoints are reduced to zero or below, the combatant is rendered unable to fight back and is at the victor’s mercy. Reducing a Hitpoint is called damage. Damage is a statistic governed by the comparison of two values, Attack and Defence. If Attack and Defence are equal, then only one Hitpoint is dealt. However, for every point that Attack exceeds Defence, another damage is dealt. Damage cannot be reduced in the opposite manner unless under special circumstances. Suffering an attack and defending it will always reduce your relative resources by the amount of their modifier to it. Physical attacks will be reduced based on the attacker’s Athleticism, Magic attacks will reduce based on Sorcery, and Mental attacks based on Willpower.
-
 ## Loss
 
 When in combat with a monster there is always a chance of being defeated. Defeat occurs when the player’s character is reduced to zero Hitpoints, Mana, Resolve, or Stamina. Defeat does not mean death but an inability or unwillingness to continue fighting. The first time a character is defeated they are subject to the Injured status effect, the second time they are subject to the Wounded status effect. Inability to return to a safe place and have these effects cured will result in a bad end on the third loss, though this is at the GM’s discretion. Usually after suffering a loss characters have a number of their items missing or broken and are in a general state of disarray.
-
-## A Sample Combat
-
-Let us suppose that a heroic adventurer named Layla has been cornered by a mighty troll. Layla is no slouch in combat and is equipped very well compared to the troll’s meager outfitting.
-
-Layla has an iron shortsword +2 and leather armour +2. The Troll is barely wearing any armour and has a big club clutched in its grasp. We’ll say the club is also +2.
-
-Layla dashes towards the thing and slashes at it, this triggers a contest while the troll tries to knock her away first. Layla has the disadvantage here, as her Athleticism is much lower due to her size, and she loses the first contest.
-
-Because of her armour at +2, a hit that would have otherwise finished her off in a single smack simply removes one of her Hitpoints, and she tries again. This time she gets lucky and dodges through the troll’s swipe and hacks at its knees.
-
-Because the troll is only wearing rags, it has nothing to mitigate the damage and loses all 3 Hitpoints in one swipe. (Standard of 1 +2) and collapses to the ground, defeated. Layla earns gold and experience.
 
 # Reference
 
