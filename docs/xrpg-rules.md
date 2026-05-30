@@ -404,7 +404,7 @@ When in combat with a monster there is always a chance of being defeated. Defeat
 | 52    | 17,004     | d30  |
 | 53    | 18,874     | d30  |
 | 54    | 20,951     | d30  |
-| 55    | 93,255     | d30  |
+| 55    | 23,255     | d30  |
 | 56    | 25,813     | d30  |
 | 57    | 28,653     | d30  |
 | 58    | 31,804     | d30  |
